@@ -1,6 +1,6 @@
 Hi I'm Leonard 👋
  
-I'm currently a trainee at ifm groups and services gmbh located in Essen, Germany.
+I'm currently a trainee at ifm group services gmbh located in Essen, Germany.
 At the moment im studying informatics at the Baden-Wuerttemberg Cooperative State University (DHBW) in Lörrach.
 
 In my free time i work on various own projects of websites, Discord bots or also RPS with hand recognition. 
